@@ -1,2 +1,3 @@
 # Ccobalt
-Programming language im working on.
+> V1.00
+
